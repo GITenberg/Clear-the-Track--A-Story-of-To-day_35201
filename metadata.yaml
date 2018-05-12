@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7823
     wikipedia: http://de.wikipedia.org/wiki/Elisabeth_B%C3%BCrstenbinder
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35201#Clear-the-Track--A-Story-of-To-day
 gutenberg_issued: '2011-02-07'
 gutenberg_type: Text
 identifiers:

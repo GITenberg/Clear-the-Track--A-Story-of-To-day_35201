@@ -1,0 +1,40 @@
+_repo: Clear-the-Track--A-Story-of-To-day_35201
+_version: 0.1.0
+alternative_title: Freie bahn. English
+contributor:
+  translator:
+    agent_name: Smith, Mary Stuart Harrison
+    birthdate: 1834
+    deathdate: 1917
+    gutenberg_agent_id: '37526'
+    url: http://www.gutenberg.org/2009/agents/37526
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Werner, E.
+    aliases:
+    - Bürstenbinder, Elisabeth
+    - Werner, Elisabeth
+    - Werner, Ernest
+    - Burstenbinder, Elisabeth
+    birthdate: 1838
+    deathdate: 1918
+    gutenberg_agent_id: '7823'
+    url: http://www.gutenberg.org/2009/agents/7823
+    wikipedia: http://de.wikipedia.org/wiki/Elisabeth_B%C3%BCrstenbinder
+description: ''
+gutenberg_issued: '2011-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35201'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- Translations into English'
+- !lcc 'PT'
+title: '"Clear the Track!" A Story of To-day'
+url: http://www.gutenberg.org/ebooks/35201
